@@ -1,6 +1,4 @@
 .coleccion{
-    background: #fff;
     display: flex;
-    flex-direction: column;
-    padding-top: 5rem;
+    justify-content: space-between;
 }

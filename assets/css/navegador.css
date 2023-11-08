@@ -1,6 +1,6 @@
 .navegador{
     align-items: center;
-    background: azure;
+    background: black;
     display: flex;
     justify-content: space-between;
 }
@@ -12,7 +12,7 @@
 }
 @media screen and (min-width:768px) {
     .navegador{
-        padding: 0 5rem;
+        padding: 0.4rem 5rem;
         justify-content: space-between;
     }
 }

@@ -1,0 +1,19 @@
+.formulario__mensaje textarea{
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 1.2rem;
+    width: 90%;
+    height: 80px;
+    padding: 10px;
+    border: none;
+    resize: none;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+.formulario__mensaje input{
+    background-color: #1aa850;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    outline: none;
+    font-size: 1.25rem;
+}

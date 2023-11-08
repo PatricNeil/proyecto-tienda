@@ -1,0 +1,18 @@
+.formulario__nombre{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    padding: 10px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+.formulario__nombre label{
+    color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 5px;
+}
+.formulario__nombre input{
+    border: none;
+    outline: none;
+    font-size: 1.2rem;
+}

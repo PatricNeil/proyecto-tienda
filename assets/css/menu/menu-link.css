@@ -1,11 +1,11 @@
 .menu__link{
-    color: #27080f;
+    color: white;
     margin-right: 1.25rem;
     text-decoration: none;
     text-transform: uppercase;
-    font-family: 'Orbitron';
+    font-family: 'Sora';
 }
 .menu__link:hover{
     text-decoration: underline;
-    color: #574f7d;
+    color: yellow;
 }
