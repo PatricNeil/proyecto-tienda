@@ -1,0 +1,10 @@
+.producto{
+    background: #fdfdfd;
+    display: flex;
+    flex-direction: column;
+}
+@media screen and (min-width:0) {
+    .producto{
+        margin: 0.7rem;
+    }
+}

@@ -1,0 +1,18 @@
+.navegador{
+    align-items: center;
+    background: azure;
+    display: flex;
+    justify-content: space-between;
+}
+@media screen and (min-width:0) {
+    .navegador{
+        padding: 0 1rem;
+        justify-content: center;
+    }
+}
+@media screen and (min-width:768px) {
+    .navegador{
+        padding: 0 5rem;
+        justify-content: space-between;
+    }
+}
